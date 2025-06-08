@@ -3,7 +3,7 @@
 A responsive blog preview card built with HTML and CSS, following modern design practices.
 
 ## 📸 Preview
-
+https://hellomresh.github.io/box-card/
 
 
 ## 🚀 Features
